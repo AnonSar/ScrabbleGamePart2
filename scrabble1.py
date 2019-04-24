@@ -33,7 +33,7 @@ def getScore(letter):
             return item[1]
 
 
-
+#opening the scores and tiles text file
 scoresFile = open('scores.txt')
 tilesFile = open('tiles.txt')
 
